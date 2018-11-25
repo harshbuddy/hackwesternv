@@ -1,0 +1,24 @@
+{
+  "name": "hackwestern5",
+  "version": "1.0.0",
+  "description": "hackwesternv project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshbuddy/1irst.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshbuddy/1irst/issues"
+  },
+  "homepage": "https://github.com/harshbuddy/1irst#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "node": "^11.1.0"
+  }
+}
